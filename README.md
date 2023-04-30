@@ -11,7 +11,7 @@ com media queries.
 
 ### Versão para Mobile
 
-![screenshot](assets/projeto-shopping-mobile.png)
+![screenshot](assets/projeto-shopping-mobile.jpeg)
 
 ## Tecnologias
 
