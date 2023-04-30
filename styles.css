@@ -31,7 +31,7 @@
     position: absolute;
 }
 
-img {
+.image {
     position: relative;
     top: 25%;
     right: 130px;
@@ -104,7 +104,7 @@ header {
         margin-top: 12%;
     }
 
-    img {
+    .image {
         position: relative;
         top: 10%;
         right: 118px;
@@ -129,7 +129,7 @@ header {
         padding: 40px;
     }
 
-    img {
+    .image {
         position: static;
         max-width: 90%;
     }
