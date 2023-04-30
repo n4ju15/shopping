@@ -11,6 +11,15 @@ com media queries.
 
 ### Versão para Mobile
 
+<img src="./assets/projeto-shopping-mobile.jpeg">
+
+<style>
+    img {
+        height: 900px;
+        width: 400px;
+    }
+</style>
+
 ![screenshot](./assets/projeto-shopping-mobile.jpeg)
 
 ## Tecnologias
