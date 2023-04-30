@@ -12,7 +12,7 @@ com media queries.
 ### Versão para Mobile
 
 <div>
-    <img width="280 height="500px" title="projeto-mobile" src="./assets/projeto-shopping-mobile.jpeg"/>
+    <img width="250px" height="500px" title="projeto-mobile" src="./assets/projeto-shopping-mobile.jpeg"/>
 </div>
 
 ## Tecnologias
