@@ -7,11 +7,11 @@ com media queries.
 
 ### Versão para Desktop
 
-![screenshot](assets/projeto-shopping-desktop.png)
+![screenshot](./assets/projeto-shopping-desktop.png)
 
 ### Versão para Mobile
 
-![screenshot](assets/projeto-shopping-mobile.png)
+![screenshot](./assets/projeto-shopping-mobile.jpeg)
 
 ## Tecnologias
 
